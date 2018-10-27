@@ -1,1 +1,1 @@
-viettel
+telco
