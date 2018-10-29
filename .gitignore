@@ -68,3 +68,7 @@ ipynb_checkpoints/
 *data/
 telco.pkl
 lgbmodel.pkl
+shap.jpg
+shap.psd
+*.vscode
+/models/
