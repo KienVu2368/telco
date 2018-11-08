@@ -65,7 +65,6 @@ ipynb_checkpoints/
 /geo_location/
 /scrap/
 *save/
-*data/
 telco.pkl
 lgbmodel.pkl
 shap.jpg
@@ -73,6 +72,5 @@ shap.psd
 *.vscode
 /models/
 churn_behavior_model_draft_1.ipynb
-/data/
 /draft/
 /photo/
