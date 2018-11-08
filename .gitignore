@@ -72,3 +72,7 @@ shap.jpg
 shap.psd
 *.vscode
 /models/
+churn_behavior_model_draft_1.ipynb
+/data/
+/draft/
+/photo/
